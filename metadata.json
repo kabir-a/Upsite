@@ -1,0 +1,6 @@
+{
+  "name": "Upsite",
+  "description": "Fast website uptime and connectivity checker with live progress, real-time up list, export to text file, and history records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
